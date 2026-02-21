@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ALRO Trang Smart Queue",
+  "description": "A comprehensive smart queue management system for the Agricultural Land Reform Office (ALRO) of Trang Province, featuring kiosk, display, and admin modules.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

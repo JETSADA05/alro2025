@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Prompt", "Sarabun", ui-sans-serif, system-ui, sans-serif;
+}
+
+:root {
+  --alro-green: #007a4d;
+}
+
+.bg-alro-green {
+  background-color: var(--alro-green);
+}
+
+.text-alro-green {
+  color: var(--alro-green);
+}
+
+.border-alro-green {
+  border-color: var(--alro-green);
+}
